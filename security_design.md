@@ -22,23 +22,20 @@
 
 ## Chapter 1: The Nature of Security
 
-> _Notes_
-* Being Trust Worthy
-- Be transparent and allows customers to assess the product
-- Intergate third parties that strongly indicates trust 
-- Be open to feedback and publicly diclose results of any investigation to prevent incident and recurrences
-- Dicuss design or features that could make trust visible
-  
-* Confidentality 
-- You first must decide what kind of info should be private
-- Decide when and how to diclose information.
-- Attackers can gather bits of infos from those disclosures to achieve their
-  goal so be careful what you disclose.
+### Being Trustworthy
+- Be transparent and allow customers to assess the product
+- Integrate third parties that strongly indicate trust
+- Be open to feedback and publicly disclose results of any investigation to prevent incidents and recurrences
+- Discuss design or features that could make trust visible
 
-* Integrity
-- Preserve critical data by having incremental backups/
-- Ensure the integerity of components, server logs, software code, and other information
-  necessary to determine the original source of tampering when problems occur.  
+### Confidentiality
+- You first must decide what kind of info should be private
+- Decide when and how to disclose information
+- Attackers can gather bits of info from those disclosures to achieve their goal, so be careful what you disclose
+
+### Integrity
+- Preserve critical data by having incremental backups
+- Ensure the integrity of components, server logs, software code, and other information necessary to determine the original source of tampering when problems occur
 
 ---
 
